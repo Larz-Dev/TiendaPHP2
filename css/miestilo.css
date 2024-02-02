@@ -1,0 +1,13 @@
+body {
+  background-color: black;
+}
+
+.redondear {
+  border-radius: 1rem;
+  border: 10rem;
+}
+
+.quitarborde {
+  border: 10rem;
+  border-color: white;
+}
